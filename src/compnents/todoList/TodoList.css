@@ -1,0 +1,20 @@
+.card, header,.input-container{
+    width: 35em;
+    margin: auto;
+}
+.input-container{
+    width: 70%;
+}
+.card .row>div{
+    border: 1px 0 1px 0;
+}
+.checkbox-container{
+    width: 20%;
+}
+.btn-container{
+width: 50%;
+}
+
+.value-container{
+width: 25%;
+}
